@@ -19,6 +19,7 @@ slots = [
 
 
 @app.route('/upload', methods=['POST'])
+@app.route("/parking-detect", methods=["POST"])
 def upload():
     file = request.files['file']
 
