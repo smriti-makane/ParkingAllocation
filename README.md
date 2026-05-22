@@ -231,7 +231,7 @@ This project helped in understanding:
 
 ## Smriti Singh
 
-Computer Science Student | AI & Full Stack Enthusiast
+Computer Science Student | AI & ML , Backend Development Enthusiast
 
 GitHub:
 https://github.com/smriti-makane
