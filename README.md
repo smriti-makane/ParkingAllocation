@@ -10,7 +10,7 @@ Parkyourlot is a real-time smart parking allocation system designed to improve p
 
 The project integrates:
 
-- YOLOv8 for vehicle detection
+- YOLOv8/ YOLOv5 for vehicle detection
 - OpenCV for image/video processing
 - Flask for backend API development
 - React.js for frontend dashboard
@@ -50,7 +50,7 @@ This system helps in:
 - Python
 
 ## Machine Learning / Computer Vision
-- YOLOv8
+- YOLOv8/YOLOv5
 - OpenCV
 
 ## Database
