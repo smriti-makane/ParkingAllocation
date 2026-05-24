@@ -1,5 +1,5 @@
 # 🚗 Parkyourlot — Smart Vehicle Detection & Parking Allocation System
-
+ 
 An AI-powered smart parking management system that detects vehicles in real time and intelligently allocates parking slots using Computer Vision, Machine Learning, and Full Stack Development technologies.
 
 ---
