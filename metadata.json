@@ -1,0 +1,6 @@
+{
+  "name": "Parking Allocation",
+  "description": "Smart parking allocation and monitoring system with live simulated camera feeds, occupancy tracking, and space assignment.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
